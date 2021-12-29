@@ -95,8 +95,8 @@
 
 <!-- ============== IDEAS ============== -->
 ### Implementation ideas
-- [x] 
-- [ ] 
+- [x] Example
+- [ ] Example
 
 
 
@@ -104,7 +104,6 @@
 ### Installation
 
 <!-- Write here -->
-
 
 ```
 Git Clone https://github.com/RuanMiniguite/Template-Readme.git
@@ -129,7 +128,7 @@ ruanminiguitecontato@gmail.com
 <!-- ============== LINKs ============== -->
 <!-- Alterar link -->
 [Site-link]: https://github.com/RuanMiniguite/Template-Readme
-[GitHub License-link]: https://github.com/RuanMiniguite/Template-Readme/LICENSE
+[GitHub License-link]: https://github.com/RuanMiniguite/Template-Readme/blob/fe381e528da59c829814c405ef7287b10a1a15ab/LICENSE
 
 
 <!-- Alterar caminho para repositorio [Template-Readme] -->
