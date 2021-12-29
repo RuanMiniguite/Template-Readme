@@ -1,17 +1,18 @@
 <!--  
     Ruan Pezzin Miniguite
     V. 2.0 
+    Readme IFES projects 
 -->
 
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
 
-  <a href="https://github.com/RuanMiniguite">
-    <img src="https://media.discordapp.net/attachments/925787834638544956/925788197068357743/Git.png?width=681&height=683" alt="Logo" width="100" height="100">
+  <a href="https://cachoeiro.ifes.edu.br/">
+    <img src="https://media.discordapp.net/attachments/925719560039043083/925751679519981578/ifes_vila-velha-horizontal-pb.png?width=953&height=294" alt="Logo" width="330">
   </a>
-  <h3 align="center">Template Readme</h3>
+  <h3 align="center">Readme title</h3>
   <p align="center">
-    Base template for repositories on github
+    Write a brief description of the project here!
   </p>
 </div>
 
@@ -52,7 +53,7 @@
 ### About the project
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925789165717717072/default.png?width=1214&height=683" width=80%>
+  <img src="" width=90%>
 <br>
 
   [![Site][Site-shields]][Site-link]
@@ -66,8 +67,8 @@
 
 <div>
 
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925790164939337778/default.png?width=388&height=683" width="25%">
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925790164939337778/default.png?width=388&height=683" width="25%">
+  <img src="" width="30%">
+  <img src="" width="30%">
 
 </div>
 
@@ -77,17 +78,17 @@
 ###### Front end
 
  <ol>
-    <li>Example</li>
-    <li>Example</li>
-    <li>Example</li>
+    <li>example</li>
+    <li>example</li>
+    <li>example</li>
   </ol>
 
 ###### Back end
 
  <ol>
-    <li>Example</li>
-    <li>Example</li>
-    <li>Example</li>
+    <li>example</li>
+    <li>example</li>
+    <li>example</li>
   </ol>
 
 
@@ -102,11 +103,6 @@
 ### Installation
 
 <!-- Write here -->
-
-
-```
-Git Clone https://github.com/RuanMiniguite/Template-Readme.git
-```
 
 
 <!-- ============== LICENSE ============== -->
@@ -126,14 +122,14 @@ ruanminiguitecontato@gmail.com
 
 <!-- ============== LINKs ============== -->
 <!-- Alterar link -->
-[Site-link]: https://github.com/RuanMiniguite/Template-Readme
-[GitHub License-link]: https://github.com/RuanMiniguite/Template-Readme/LICENSE
+[Site-link]: https://example.com
+[GitHub License-link]: https://github.com/RuanMiniguite/Python-Chat-udp
 
 
-<!-- Alterar caminho para repositorio [Template-Readme] -->
-[GitHub repo size-shields]: https://img.shields.io/github/repo-size/RuanMiniguite/Template-Readme?style=for-the-badge
-[GitHub language count-shields]: https://img.shields.io/github/languages/count/RuanMiniguite/Template-Readme?style=for-the-badge
-[GitHub forks-shields]: https://img.shields.io/github/forks/RuanMiniguite/Template-Readme?style=for-the-badge
+<!-- Alterar caminho para repositorio [GITRepost] -->
+[GitHub repo size-shields]: https://img.shields.io/github/repo-size/[GITRepost]?style=for-the-badge
+[GitHub language count-shields]: https://img.shields.io/github/languages/count/[GITRepost]?style=for-the-badge
+[GitHub forks-shields]: https://img.shields.io/github/forks/[GITRepost]?style=for-the-badge
 
 
 [GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&style=for-the-badge
