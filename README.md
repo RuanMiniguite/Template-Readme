@@ -48,7 +48,7 @@
 
 
 <!-- ============== ABOUT ============== -->
-### About the project
+## About the project
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/925787834638544956/925789165717717072/default.png?width=1214&height=683" width=80%>
@@ -61,7 +61,7 @@
 
 
 <!-- ============== LAYOUT ============== -->
-### Layout
+## Layout
 
 <div>
 
@@ -72,7 +72,7 @@
 
 
 <!-- ============== LANGUAGE ============== -->
-### Language and tools
+## Language and tools
 ###### Front end
 
  <ol>
@@ -91,14 +91,14 @@
 
 
 <!-- ============== IDEAS ============== -->
-### Implementation ideas
+## Implementation ideas
 - [x] Example
 - [ ] Example
 
 
 
 <!-- ============== INSTALLATION ============== -->
-### Installation
+## Installation
 
 <!-- Write here -->
 
@@ -109,16 +109,15 @@ Git Clone https://github.com/RuanMiniguite/Template-Readme.git
 
 
 <!-- ============== LICENSE ============== -->
-### License
+## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- ============== AUTHOR ============== -->
-### Author
+## Author
 
-Ruan Pezzin Miniguite
-ruanminiguitecontato@gmail.com
+Ruan Pezzin Miniguite <br> ruanminiguitecontato@gmail.com
 
 <p align="right">(<a href="#header">back to top</a>)</p>
 
