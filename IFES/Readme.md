@@ -10,11 +10,12 @@
   <a href="https://cachoeiro.ifes.edu.br/">
     <img src="https://media.discordapp.net/attachments/925719560039043083/925751679519981578/ifes_vila-velha-horizontal-pb.png?width=953&height=294" alt="Logo" width="330">
   </a>
-  <h3 align="center">Readme title</h3>
+  <h3 align="center">Template Readme IFES</h3>
   <p align="center">
-    Write a brief description of the project here!
+    Base template for repositories on github
   </p>
 </div>
+
 
 
 <!-- ===== SUMARIO ===== -->
@@ -53,7 +54,7 @@
 ### About the project
 
 <div align="center">
-  <img src="" width=90%>
+  <img src="https://media.discordapp.net/attachments/925787834638544956/925789165717717072/default.png?width=1214&height=683" width=80%>
 <br>
 
   [![Site][Site-shields]][Site-link]
@@ -67,8 +68,8 @@
 
 <div>
 
-  <img src="" width="30%">
-  <img src="" width="30%">
+  <img src="https://media.discordapp.net/attachments/925787834638544956/925790164939337778/default.png?width=388&height=683" width="25%">
+  <img src="https://media.discordapp.net/attachments/925787834638544956/925790164939337778/default.png?width=388&height=683" width="25%">
 
 </div>
 
@@ -78,17 +79,17 @@
 ###### Front end
 
  <ol>
-    <li>example</li>
-    <li>example</li>
-    <li>example</li>
+    <li>Example</li>
+    <li>Example</li>
+    <li>Example</li>
   </ol>
 
 ###### Back end
 
  <ol>
-    <li>example</li>
-    <li>example</li>
-    <li>example</li>
+    <li>Example</li>
+    <li>Example</li>
+    <li>Example</li>
   </ol>
 
 
@@ -103,6 +104,11 @@
 ### Installation
 
 <!-- Write here -->
+
+
+```
+Git Clone https://github.com/RuanMiniguite/Template-Readme.git
+```
 
 
 <!-- ============== LICENSE ============== -->
@@ -122,14 +128,14 @@ ruanminiguitecontato@gmail.com
 
 <!-- ============== LINKs ============== -->
 <!-- Alterar link -->
-[Site-link]: https://example.com
-[GitHub License-link]: https://github.com/RuanMiniguite/Python-Chat-udp
+[Site-link]: https://github.com/RuanMiniguite/Template-Readme
+[GitHub License-link]: https://github.com/RuanMiniguite/Template-Readme/LICENSE
 
 
-<!-- Alterar caminho para repositorio [GITRepost] -->
-[GitHub repo size-shields]: https://img.shields.io/github/repo-size/[GITRepost]?style=for-the-badge
-[GitHub language count-shields]: https://img.shields.io/github/languages/count/[GITRepost]?style=for-the-badge
-[GitHub forks-shields]: https://img.shields.io/github/forks/[GITRepost]?style=for-the-badge
+<!-- Alterar caminho para repositorio [Template-Readme] -->
+[GitHub repo size-shields]: https://img.shields.io/github/repo-size/RuanMiniguite/Template-Readme?style=for-the-badge
+[GitHub language count-shields]: https://img.shields.io/github/languages/count/RuanMiniguite/Template-Readme?style=for-the-badge
+[GitHub forks-shields]: https://img.shields.io/github/forks/RuanMiniguite/Template-Readme?style=for-the-badge
 
 
 [GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&style=for-the-badge

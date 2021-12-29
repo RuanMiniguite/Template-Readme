@@ -15,7 +15,6 @@
   </p>
 </div>
 
-
 <!-- ===== SUMARIO ===== -->
 <details>
   <summary>Table of Contents</summary>
@@ -93,8 +92,8 @@
 
 <!-- ============== IDEAS ============== -->
 ### Implementation ideas
-- [x] 
-- [ ] 
+- [x] Example
+- [ ] Example
 
 
 
