@@ -119,8 +119,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ============== AUTHOR ============== -->
 ### Author
 
-Ruan Pezzin Miniguite
-ruanminiguitecontato@gmail.com
+Ruan Pezzin Miniguite <br> ruanminiguitecontato@gmail.com
 
 <p align="right">(<a href="#header">back to top</a>)</p>
 
