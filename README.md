@@ -73,16 +73,15 @@
 
 <!-- ============== LANGUAGE ============== -->
 ## Language and tools
-###### Front end
 
+<h4>Front end</h4>
  <ol>
     <li>Example</li>
     <li>Example</li>
     <li>Example</li>
   </ol>
-
-###### Back end
-
+ 
+<h4>Back end</h4>
  <ol>
     <li>Example</li>
     <li>Example</li>
@@ -100,8 +99,8 @@
 <!-- ============== INSTALLATION ============== -->
 ## Installation
 
+<h4>Requirements</h4>
 <!-- Write here -->
-
 
 ```
 Git Clone https://github.com/RuanMiniguite/Template-Readme.git
