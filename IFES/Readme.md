@@ -1,6 +1,6 @@
 <!--  
     Ruan Pezzin Miniguite
-    V. 2.0 
+    V. 2.1
     Readme IFES projects 
 -->
 
@@ -119,7 +119,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ============== AUTHOR ============== -->
 ## Author
 
-Ruan Pezzin Miniguite <br> ruanminiguitecontato@gmail.com
+## Author
+
+[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=115" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
+
 
 <p align="right">(<a href="#header">back to top</a>)</p>
 
@@ -140,3 +143,4 @@ Ruan Pezzin Miniguite <br> ruanminiguitecontato@gmail.com
 [Site-shields]: https://img.shields.io/badge/Site-Live-292929?style=for-the-badge&logo=web&logoColor=white
 [Website-link]: https://github.com/RuanMiniguite/Commit-Message
 [Website-shields]: https://img.shields.io/website?down_color=292929&down_message=404&style=for-the-badge&logo=github&up_color=292929&up_message=Commit&url=https%3A%2F%2Fgithub.com%2FRuanMiniguite%2FCommit-Message
+

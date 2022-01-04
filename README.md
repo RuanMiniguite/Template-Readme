@@ -1,6 +1,6 @@
 <!--  
     Ruan Pezzin Miniguite
-    V. 2.0 
+    V. 2.1 
 -->
 
 <!-- ============== HEADER ============== -->
@@ -14,6 +14,7 @@
     Base template for repositories on github
   </p>
 </div>
+
 
 <!-- ===== SUMARIO ===== -->
 <details>
@@ -91,6 +92,7 @@
 
 <!-- ============== IDEAS ============== -->
 ## Implementation ideas
+
 - [x] Example
 - [ ] Example
 
@@ -116,7 +118,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ============== AUTHOR ============== -->
 ## Author
 
-Ruan Pezzin Miniguite <br> ruanminiguitecontato@gmail.com
+[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=115" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
+
+
 
 <p align="right">(<a href="#header">back to top</a>)</p>
 
