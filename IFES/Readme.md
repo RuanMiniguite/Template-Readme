@@ -119,8 +119,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ============== AUTHOR ============== -->
 ## Author
 
-## Author
-
 [<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=115" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
 
 
