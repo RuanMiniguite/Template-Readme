@@ -7,7 +7,7 @@
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
 
-  <a href="https://cachoeiro.ifes.edu.br/"><img src="https://media.discordapp.net/attachments/925719560039043083/956756116136685628/cachoeiro-horizontal-pb.png?width=1025&height=410" alt="Logo" width="330"></a>
+  <a href="https://cachoeiro.ifes.edu.br/"><img src="https://media.discordapp.net/attachments/925719560039043083/957863776407916654/cachoeiro-horizontal-pb.png?width=356&height=479" alt="Logo" width="100"></a>
   
   <h3 align="center">Template Readme IFES</h3>
   <p align="center">Base template for repositories on github</p>
