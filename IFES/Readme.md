@@ -7,15 +7,11 @@
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
 
-  <a href="https://cachoeiro.ifes.edu.br/">
-    <img src="https://media.discordapp.net/attachments/925719560039043083/925751679519981578/ifes_vila-velha-horizontal-pb.png?width=953&height=294" alt="Logo" width="330">
-  </a>
+  <a href="https://cachoeiro.ifes.edu.br/"><img src="https://media.discordapp.net/attachments/925719560039043083/956756116136685628/cachoeiro-horizontal-pb.png?width=1025&height=410" alt="Logo" width="330"></a>
+  
   <h3 align="center">Template Readme IFES</h3>
-  <p align="center">
-    Base template for repositories on github
-  </p>
+  <p align="center">Base template for repositories on github</p>
 </div>
-
 
 
 <!-- ===== SUMARIO ===== -->
@@ -44,9 +40,7 @@
   [![GitHub License][GitHub License-shields]][GitHub License-link]
   [![Website][Website-shields]][Website-link]
 
-  <h4 align="center"> 
-    🚧  Project under construction...  🚧
-  </h4>
+  <h4>🚧  Project under construction...  🚧</h4>
 </div>
 
 
@@ -54,9 +48,8 @@
 ## About the project
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925789165717717072/default.png?width=1214&height=683" width=80%>
-<br><br>
-
+  <img src="https://media.discordapp.net/attachments/925787834638544956/925789165717717072/default.png?width=1214&height=683" width=80%><br><br>
+  
   [![Site][Site-shields]][Site-link]
 </div>
 
@@ -77,23 +70,24 @@
 <!-- ============== LANGUAGE ============== -->
 ## Language and tools
 
-<h4>Front end</h4>
- <ol>
-    <li>Example</li>
-    <li>Example</li>
-    <li>Example</li>
-  </ol>
- 
-<h4>Back end</h4>
- <ol>
-    <li>Example</li>
-    <li>Example</li>
-    <li>Example</li>
-  </ol>
+#### Front end
+```
+>
+>
+>
+```
 
+
+#### Back end
+```
+>
+>
+>
+```
 
 <!-- ============== IDEAS ============== -->
 ## Implementation ideas
+
 - [x] Example
 - [ ] Example
 
@@ -113,7 +107,7 @@ Git Clone https://github.com/RuanMiniguite/Template-Readme.git
 <!-- ============== LICENSE ============== -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ============== AUTHOR ============== -->
@@ -130,13 +124,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Site-link]: https://github.com/RuanMiniguite/Template-Readme
 [GitHub License-link]: https://github.com/RuanMiniguite/Template-Readme/blob/fe381e528da59c829814c405ef7287b10a1a15ab/LICENSE
 
-
 <!-- Alterar caminho para repositorio [Template-Readme] -->
 [GitHub repo size-shields]: https://img.shields.io/github/repo-size/RuanMiniguite/Template-Readme?style=for-the-badge
 [GitHub language count-shields]: https://img.shields.io/github/languages/count/RuanMiniguite/Template-Readme?style=for-the-badge
 [GitHub forks-shields]: https://img.shields.io/github/forks/RuanMiniguite/Template-Readme?style=for-the-badge
 
 
+<!-- link Shields-->
 [GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&style=for-the-badge
 [Site-shields]: https://img.shields.io/badge/Site-Live-292929?style=for-the-badge&logo=web&logoColor=white
 [Website-link]: https://github.com/RuanMiniguite/Commit-Message
