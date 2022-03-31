@@ -5,7 +5,7 @@
 
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
-  <a href="https://github.com/RuanMiniguite"><img src="/assets/IfesLogo02.png" alt="Logo" width="450"></a>
+  <a href="https://github.com/RuanMiniguite"><img src="/assets/Ifes02.png" alt="Logo" width="450"></a>
   
   <h3>Template Readme</h3>
   <p>Base template for repositories on github</p>
