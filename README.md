@@ -1,14 +1,14 @@
 <!--  
     Ruan Pezzin Miniguite
-    V. 2.1 
+    V. 2.2 
 -->
 
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
-  <a href="https://github.com/RuanMiniguite"><img src="https://media.discordapp.net/attachments/925787834638544956/925788197068357743/Git.png?width=681&height=683" alt="Logo" width="100" height="100"></a>
+  <a href="https://github.com/RuanMiniguite"><img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/GitHub.png" alt="Logo" width="110"></a>
   
-  <h3 align="center">Template Readme</h3>
-  <p align="center">Base template for repositories on github</p>
+  <h3>Template Readme</h3>
+  <p>Base template for repositories on github</p>
 </div>
 
 
@@ -38,7 +38,7 @@
   [![GitHub License][GitHub License-shields]][GitHub License-link]
   [![Website][Website-shields]][Website-link]
 
-  <h4>🚧  Project under construction...  🚧</h4>
+  <h4>🚧 Project under construction...  🚧</h4>
 </div>
 
 
@@ -46,7 +46,7 @@
 ## About the project
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925789165717717072/default.png?width=1214&height=683" width=80%><br><br>
+  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefault.jpg" alt="Print" width=90% ><br><br>
   
   [![Site][Site-shields]][Site-link]
 </div>
@@ -59,8 +59,9 @@
 
 <div>
 
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925790164939337778/default.png?width=388&height=683" width="25%">
-  <img src="https://media.discordapp.net/attachments/925787834638544956/925790164939337778/default.png?width=388&height=683" width="25%">
+  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
 
 </div>
 
@@ -111,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ============== AUTHOR ============== -->
 ## Author
 
-[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=115" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
+[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=210" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
 
 
 <p align="right">(<a href="#header">back to top</a>)</p>
@@ -126,7 +127,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [GitHub repo size-shields]: https://img.shields.io/github/repo-size/RuanMiniguite/Template-Readme?style=for-the-badge
 [GitHub language count-shields]: https://img.shields.io/github/languages/count/RuanMiniguite/Template-Readme?style=for-the-badge
 [GitHub forks-shields]: https://img.shields.io/github/forks/RuanMiniguite/Template-Readme?style=for-the-badge
-
 
 <!-- link Shields-->
 [GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&style=for-the-badge
