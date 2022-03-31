@@ -5,7 +5,7 @@
 
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
-  <a href="https://github.com/RuanMiniguite"><img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/GitHub.png" alt="Logo" width="110"></a>
+  <a href="https://github.com/RuanMiniguite"><img src="assets/GitHub.png" alt="Logo" width="110"></a>
   
   <h3>Template Readme</h3>
   <p>Base template for repositories on github</p>
@@ -46,7 +46,7 @@
 ## About the project
 
 <div align="center">
-  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefault.jpg" alt="Print" width=90% ><br><br>
+  <img src="assets/ImageDefault.jpg" alt="Print" width=90% ><br><br>
   
   [![Site][Site-shields]][Site-link]
 </div>
@@ -59,9 +59,9 @@
 
 <div>
 
-  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-  <img src="https://github.com/RuanMiniguite/Template-Readme/blob/d359b337899ffec6e542e4eb431b41bdb274da7c/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
 
 </div>
 
