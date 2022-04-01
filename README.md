@@ -29,6 +29,7 @@
 ---
 
 
+
 <!-- ============== SHIELDS ============== -->
 <div align="center">
 
@@ -38,32 +39,33 @@
   [![GitHub License][GitHub License-shields]][GitHub License-link]
   [![Website][Website-shields]][Website-link]
 
-  <h4>🚧 Project under construction...  🚧</h4>
+  <h4>🚧 Project under construction... 🚧</h4>
 </div>
+
 
 
 <!-- ============== ABOUT ============== -->
 ## About the project
 
 <div align="center">
-  <img src="assets/ImageDefault.jpg" alt="Print" width=90% ><br><br>
-  
+  <img src="/assets/ImageDefault.jpg" alt="Print" width=90% ><br><br>
+
   [![Site][Site-shields]][Site-link]
 </div>
 
 <p>Project description!</p>
 
 
+
 <!-- ============== LAYOUT ============== -->
 ## Layout
 
 <div>
-
-  <img src="assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-  <img src="assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-  <img src="assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-
+  <img src="/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
 </div>
+
 
 
 <!-- ============== LANGUAGE ============== -->
@@ -76,13 +78,14 @@
 >
 ```
 
-
 #### Back end
 ```
 >
 >
 >
 ```
+
+
 
 <!-- ============== IDEAS ============== -->
 ## Implementation ideas
