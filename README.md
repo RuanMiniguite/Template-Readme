@@ -107,7 +107,7 @@ Git Clone https://github.com/RuanMiniguite/Template-Readme.git
 ## License
 
 Copyright © 2023 [Ruan Miniguite](https://github.com/RuanMiniguite).<br />
-This project is [MIT](https://github.com/RuanMiniguite/Template-Readme/blob/64f8b823875c90c462115c0b7000eeb25a165fbd/LICENSE) licensed.
+This project is [MIT][GitHub License-link] licensed.
 
 
 
