@@ -1,20 +1,31 @@
 <!--  
-    Ruan Pezzin Miniguite
-    V. 2.2 
+  Ruan Pezzin Miniguite
+  V. 3.0
 -->
+
 
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
-  <a href="https://github.com/RuanMiniguite"><img src="assets/GitHub.png" alt="Logo" width="110"></a>
+
+  ![TR](https://user-images.githubusercontent.com/82480542/215128340-91701b9d-a85b-4418-980d-adc6e8b39edf.png)
+
+  <h3>🚧 Project under construction... 🚧</h3>
+  <br>
+
+  ![GitHub repo size][GitHub repo size-shields]
+  ![GitHub language count][GitHub language count-shields]
+  ![GitHub forks][GitHub forks-shields]
+  ![GitHub stars][GitHub stars-shields]
+  [![GitHub License][GitHub License-shields]][GitHub License-link]
+  [![Website][Website-shields]][Website-link]
   
-  <h3>Template Readme</h3>
-  <p>Base template for repositories on github</p>
 </div>
 
+---
 
-<!-- ===== SUMARIO ===== -->
+<!-- ===== INDEX ===== -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Index</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#layout">Layout</a></li>
@@ -26,34 +37,19 @@
   </ol>
 </details>
 
----
-
-
-
-<!-- ============== SHIELDS ============== -->
-<div align="center">
-
-  ![GitHub repo size][GitHub repo size-shields]
-  ![GitHub language count][GitHub language count-shields]
-  ![GitHub forks][GitHub forks-shields]
-  [![GitHub License][GitHub License-shields]][GitHub License-link]
-  [![Website][Website-shields]][Website-link]
-
-  <h4>🚧 Project under construction... 🚧</h4>
-</div>
-
 
 
 <!-- ============== ABOUT ============== -->
 ## About the project
 
 <div align="center">
-  <img src="/assets/ImageDefault.jpg" alt="Print" width=90% ><br><br>
+  
+  ![404](https://user-images.githubusercontent.com/82480542/215136425-92c500f7-5e9b-45f3-a434-3278d9d5f8cf.png)
 
   [![Site][Site-shields]][Site-link]
 </div>
 
-<p>Project description!</p>
+<p>This space is reserved for describing the project. It is important that the description is clear and detailed, including information such as objectives, scope, among other aspects relevant to the project. Thus, it will be possible to better understand the context and needs of the project.</p>
 
 
 
@@ -61,9 +57,9 @@
 ## Layout
 
 <div>
-  <img src="/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-  <img src="/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
-  <img src="/assets/ImageDefaultMobile.jpg" alt="Print" width="25%">
+  <img src="https://user-images.githubusercontent.com/82480542/215137124-6d862ca1-fd84-4486-865e-9929463d4900.png" alt="Print" width="25%">
+  <img src="https://user-images.githubusercontent.com/82480542/215137124-6d862ca1-fd84-4486-865e-9929463d4900.png" alt="Print" width="25%">
+  <img src="https://user-images.githubusercontent.com/82480542/215137124-6d862ca1-fd84-4486-865e-9929463d4900.png" alt="Print" width="25%">
 </div>
 
 
@@ -106,19 +102,23 @@ Git Clone https://github.com/RuanMiniguite/Template-Readme.git
 ```
 
 
+
 <!-- ============== LICENSE ============== -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Copyright © 2023 [Ruan Miniguite](https://github.com/RuanMiniguite).<br />
+This project is [MIT](https://github.com/RuanMiniguite/Template-Readme/blob/64f8b823875c90c462115c0b7000eeb25a165fbd/LICENSE) licensed.
+
 
 
 <!-- ============== AUTHOR ============== -->
 ## Author
 
-[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=210" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
-
+[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=330" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
 
 <p align="right">(<a href="#header">back to top</a>)</p>
+
+
 
 
 <!-- ============== LINKs ============== -->
@@ -127,11 +127,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [GitHub License-link]: https://github.com/RuanMiniguite/Template-Readme/blob/fe381e528da59c829814c405ef7287b10a1a15ab/LICENSE
 
 <!-- Alterar caminho para repositorio [Template-Readme] -->
-[GitHub repo size-shields]: https://img.shields.io/github/repo-size/RuanMiniguite/Template-Readme?style=for-the-badge
-[GitHub language count-shields]: https://img.shields.io/github/languages/count/RuanMiniguite/Template-Readme?style=for-the-badge
-[GitHub forks-shields]: https://img.shields.io/github/forks/RuanMiniguite/Template-Readme?style=for-the-badge
+[GitHub repo size-shields]: https://img.shields.io/github/repo-size/RuanMiniguite/Template-Readme?style=for-the-badge&color=292929
+[GitHub language count-shields]: https://img.shields.io/github/languages/count/RuanMiniguite/Template-Readme?style=for-the-badge&color=292929
+[GitHub forks-shields]: https://img.shields.io/github/forks/RuanMiniguite/Template-Readme?style=for-the-badge&color=292929
+[GitHub stars-shields]: https://img.shields.io/github/stars/RuanMiniguite/Template-Readme?style=for-the-badge&color=292929
 
-<!-- link Shields-->
+<!-- Permalink Shields-->
 [GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&style=for-the-badge
 [Site-shields]: https://img.shields.io/badge/Site-Live-292929?style=for-the-badge&logo=web&logoColor=white
 [Website-link]: https://github.com/RuanMiniguite/Commit-Message
