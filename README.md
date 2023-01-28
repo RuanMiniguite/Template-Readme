@@ -56,7 +56,7 @@
 <!-- ============== LAYOUT ============== -->
 ## Layout
 
-<div>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/82480542/215137124-6d862ca1-fd84-4486-865e-9929463d4900.png" alt="Print" width="25%">
   <img src="https://user-images.githubusercontent.com/82480542/215137124-6d862ca1-fd84-4486-865e-9929463d4900.png" alt="Print" width="25%">
   <img src="https://user-images.githubusercontent.com/82480542/215137124-6d862ca1-fd84-4486-865e-9929463d4900.png" alt="Print" width="25%">
